@@ -29,9 +29,9 @@ This project presents an interactive application that allows users to test their
 
 2. **Install dependencies**
     ```
-        npm i
+    npm i
     ```
 3. **Run the project**
     ```
-        npm start
+    npm start
     ```
