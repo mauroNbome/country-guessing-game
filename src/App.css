@@ -1,0 +1,44 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: #ffffff;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #333333;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 5px #ffffff;
+}
+
+.ReactModal__Overlay {
+  z-index: 999 !important;
+}
+
+.ReactModal__Content {
+  z-index: 1000 !important;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+}
+
