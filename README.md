@@ -4,7 +4,6 @@ This project presents an interactive application that allows users to test their
 
 ## Features
 
-- **Modern Interface**: Designed with Material-UI for a clean and modern look.
 - **Interactive Map**: Implemented with Leaflet, it allows users to geographically explore countries with dynamic zoom based on the country's area.
 - **Instant Feedback**: Color-coded responses and smooth animations provide immediate visual feedback on correct and incorrect answers.
 - **Dynamic Scoring**: A scoring system challenges users to improve upon their previous performance.
